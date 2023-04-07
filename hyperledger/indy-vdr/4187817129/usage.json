@@ -1,0 +1,91 @@
+{
+  "billable": {
+    "UBUNTU": {
+      "total_ms": 0,
+      "jobs": 9,
+      "job_runs": [
+        {
+          "job_id": 11370516565,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11370516728,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11370516915,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11370517067,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11370518135,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11370786305,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11370912271,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11370912498,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11370912695,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "MACOS": {
+      "total_ms": 0,
+      "jobs": 6,
+      "job_runs": [
+        {
+          "job_id": 11370517240,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11370517404,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11370517563,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11370517744,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11370912887,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11370936918,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "WINDOWS": {
+      "total_ms": 0,
+      "jobs": 2,
+      "job_runs": [
+        {
+          "job_id": 11370517941,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11370913061,
+          "duration_ms": 0
+        }
+      ]
+    }
+  },
+  "run_duration_ms": 2435000
+}

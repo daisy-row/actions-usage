@@ -1,0 +1,115 @@
+{
+  "billable": {
+    "MACOS": {
+      "total_ms": 0,
+      "jobs": 7,
+      "job_runs": [
+        {
+          "job_id": 12656115170,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656246802,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656247031,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656247237,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656247862,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656502857,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656526060,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "WINDOWS": {
+      "total_ms": 0,
+      "jobs": 3,
+      "job_runs": [
+        {
+          "job_id": 12656115470,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656248011,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656503069,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "UBUNTU": {
+      "total_ms": 0,
+      "jobs": 13,
+      "job_runs": [
+        {
+          "job_id": 12656115643,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656245991,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656246140,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656246365,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656246510,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656247454,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656247652,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656248196,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656415476,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656502064,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656502378,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656502605,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12656503278,
+          "duration_ms": 0
+        }
+      ]
+    }
+  },
+  "run_duration_ms": 1100000
+}

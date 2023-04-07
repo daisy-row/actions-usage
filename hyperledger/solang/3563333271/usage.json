@@ -1,0 +1,263 @@
+{
+  "billable": {
+    "UBUNTU": {
+      "total_ms": 0,
+      "jobs": 40,
+      "job_runs": [
+        {
+          "job_id": 9740101918,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9740102648,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9740102887,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9740103542,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9740463424,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9740463676,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9740463869,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9740464030,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9740780300,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9740780517,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9740781166,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9740781655,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9741290398,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9741290655,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9741290811,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9741290998,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9744351443,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9744351653,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9744351842,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9744352424,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9744740446,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9744740710,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9744740841,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9744741019,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9745051958,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9745052217,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9745052463,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9745052869,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9745467682,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9745467949,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9745468200,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9745468455,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9746565738,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9746566008,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9746566351,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9746567120,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9747015356,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9747015678,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9747016079,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9747016507,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "MACOS": {
+      "total_ms": 0,
+      "jobs": 15,
+      "job_runs": [
+        {
+          "job_id": 9740103149,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9740103350,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9740519106,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9740781330,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9740781489,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9741213995,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9744352047,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9744352213,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9744746057,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9745053509,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9745053714,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9745526937,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9746566599,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9746566865,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9747137770,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "WINDOWS": {
+      "total_ms": 0,
+      "jobs": 5,
+      "job_runs": [
+        {
+          "job_id": 9740103773,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9740781823,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9744352582,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9745053051,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9746567400,
+          "duration_ms": 0
+        }
+      ]
+    }
+  },
+  "run_duration_ms": 3613000
+}

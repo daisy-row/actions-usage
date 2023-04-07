@@ -1,0 +1,105 @@
+{
+  "billable": {
+    "UBUNTU_4_CORE": {
+      "total_ms": 34200000,
+      "jobs": 13,
+      "job_runs": [
+        {
+          "job_id": 12895135306,
+          "duration_ms": 300000
+        },
+        {
+          "job_id": 12895271344,
+          "duration_ms": 480000
+        },
+        {
+          "job_id": 12895271869,
+          "duration_ms": 4980000
+        },
+        {
+          "job_id": 12895272070,
+          "duration_ms": 1200000
+        },
+        {
+          "job_id": 12895272281,
+          "duration_ms": 360000
+        },
+        {
+          "job_id": 12895272501,
+          "duration_ms": 1020000
+        },
+        {
+          "job_id": 12895272725,
+          "duration_ms": 780000
+        },
+        {
+          "job_id": 12895272945,
+          "duration_ms": 1080000
+        },
+        {
+          "job_id": 12895273152,
+          "duration_ms": 600000
+        },
+        {
+          "job_id": 12895273393,
+          "duration_ms": 600000
+        },
+        {
+          "job_id": 12895273641,
+          "duration_ms": 720000
+        },
+        {
+          "job_id": 12897850520,
+          "duration_ms": 420000
+        },
+        {
+          "job_id": 12897850956,
+          "duration_ms": 21660000
+        }
+      ]
+    },
+    "UBUNTU": {
+      "total_ms": 0,
+      "jobs": 9,
+      "job_runs": [
+        {
+          "job_id": 12897849851,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12897851357,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12897851604,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12897851882,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12897852156,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12897852394,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12897852655,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12897852926,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12897853193,
+          "duration_ms": 0
+        }
+      ]
+    }
+  },
+  "run_duration_ms": 21628000
+}

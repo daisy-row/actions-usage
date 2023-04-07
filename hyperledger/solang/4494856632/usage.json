@@ -1,0 +1,103 @@
+{
+  "billable": {
+    "UBUNTU": {
+      "total_ms": 0,
+      "jobs": 12,
+      "job_runs": [
+        {
+          "job_id": 12206305663,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12206305903,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12206306129,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12206306340,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12215458974,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12215459238,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12215459406,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12215459574,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12215603524,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12215603781,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12215603986,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12215604190,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "MACOS": {
+      "total_ms": 0,
+      "jobs": 6,
+      "job_runs": [
+        {
+          "job_id": 12206306846,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12206307280,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12206672487,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12215460312,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12215460493,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12215461094,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "WINDOWS": {
+      "total_ms": 0,
+      "jobs": 2,
+      "job_runs": [
+        {
+          "job_id": 12206307442,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12215459973,
+          "duration_ms": 0
+        }
+      ]
+    }
+  },
+  "run_duration_ms": 1205000
+}

@@ -1,0 +1,109 @@
+{
+  "billable": {
+    "UBUNTU": {
+      "total_ms": 0,
+      "jobs": 21,
+      "job_runs": [
+        {
+          "job_id": 9738756574,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9738767680,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9738768217,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9738768383,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9738768530,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9738768662,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9738768823,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9738768949,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9738769078,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9738769324,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9738769491,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9738769621,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9738769734,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9738769881,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9738769989,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9738770351,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9738786677,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9739027774,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9739027926,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9739028064,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9739437690,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "MACOS": {
+      "total_ms": 0,
+      "jobs": 2,
+      "job_runs": [
+        {
+          "job_id": 9738770108,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9738770212,
+          "duration_ms": 0
+        }
+      ]
+    }
+  },
+  "run_duration_ms": 4418000
+}

@@ -1,0 +1,31 @@
+{
+  "billable": {
+    "UBUNTU": {
+      "total_ms": 0,
+      "jobs": 5,
+      "job_runs": [
+        {
+          "job_id": 12938071469,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12938071532,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12938071608,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12938071688,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12938071801,
+          "duration_ms": 0
+        }
+      ]
+    }
+  },
+  "run_duration_ms": 1183000
+}

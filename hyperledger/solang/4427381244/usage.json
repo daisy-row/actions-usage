@@ -1,0 +1,103 @@
+{
+  "billable": {
+    "UBUNTU": {
+      "total_ms": 0,
+      "jobs": 12,
+      "job_runs": [
+        {
+          "job_id": 12022065800,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12022066223,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12022066740,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12022067948,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12029119959,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12029120271,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12029120521,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12029121904,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12029661109,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12029661543,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12029661860,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12029662186,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "MACOS": {
+      "total_ms": 0,
+      "jobs": 6,
+      "job_runs": [
+        {
+          "job_id": 12022067579,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12022069098,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12023407434,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12029121402,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12029121660,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12029970207,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "WINDOWS": {
+      "total_ms": 0,
+      "jobs": 2,
+      "job_runs": [
+        {
+          "job_id": 12022068445,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12029122102,
+          "duration_ms": 0
+        }
+      ]
+    }
+  },
+  "run_duration_ms": 2076000
+}

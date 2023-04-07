@@ -1,0 +1,107 @@
+{
+  "billable": {
+    "MACOS": {
+      "total_ms": 0,
+      "jobs": 7,
+      "job_runs": [
+        {
+          "job_id": 11095996647,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11095996813,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11095996976,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11095998175,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11096216489,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11096286541,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11096520822,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "UBUNTU": {
+      "total_ms": 0,
+      "jobs": 11,
+      "job_runs": [
+        {
+          "job_id": 11095997226,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11095997409,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11095997606,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11095997780,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11095997984,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11096168670,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11096286184,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11096286370,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11096519979,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11096520399,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11096520619,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "WINDOWS": {
+      "total_ms": 0,
+      "jobs": 3,
+      "job_runs": [
+        {
+          "job_id": 11095998355,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11096286682,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11096521034,
+          "duration_ms": 0
+        }
+      ]
+    }
+  },
+  "run_duration_ms": 1724000
+}

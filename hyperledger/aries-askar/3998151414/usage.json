@@ -1,0 +1,103 @@
+{
+  "billable": {
+    "UBUNTU": {
+      "total_ms": 0,
+      "jobs": 10,
+      "job_runs": [
+        {
+          "job_id": 10854555306,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10854556154,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10854556417,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10854556752,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10854556982,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10856287982,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10857100583,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10857100807,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10858884807,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10858885142,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "MACOS": {
+      "total_ms": 0,
+      "jobs": 7,
+      "job_runs": [
+        {
+          "job_id": 10854555522,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10854557285,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10854557536,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10854557787,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10856851580,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10857100973,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10858885384,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "WINDOWS": {
+      "total_ms": 0,
+      "jobs": 3,
+      "job_runs": [
+        {
+          "job_id": 10854555727,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10857101181,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10858885581,
+          "duration_ms": 0
+        }
+      ]
+    }
+  },
+  "run_duration_ms": 11421000
+}

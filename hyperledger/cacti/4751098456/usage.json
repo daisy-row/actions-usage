@@ -1,0 +1,99 @@
+{
+  "billable": {
+    "UBUNTU_4_CORE": {
+      "total_ms": 6000000,
+      "jobs": 22,
+      "job_runs": [
+        {
+          "job_id": 12885757076,
+          "duration_ms": 360000
+        },
+        {
+          "job_id": 12885757969,
+          "duration_ms": 60000
+        },
+        {
+          "job_id": 12885758618,
+          "duration_ms": 60000
+        },
+        {
+          "job_id": 12885759127,
+          "duration_ms": 60000
+        },
+        {
+          "job_id": 12885759516,
+          "duration_ms": 60000
+        },
+        {
+          "job_id": 12885759677,
+          "duration_ms": 120000
+        },
+        {
+          "job_id": 12885759813,
+          "duration_ms": 60000
+        },
+        {
+          "job_id": 12885759962,
+          "duration_ms": 360000
+        },
+        {
+          "job_id": 12885760091,
+          "duration_ms": 240000
+        },
+        {
+          "job_id": 12885760223,
+          "duration_ms": 360000
+        },
+        {
+          "job_id": 12885760373,
+          "duration_ms": 120000
+        },
+        {
+          "job_id": 12885760525,
+          "duration_ms": 180000
+        },
+        {
+          "job_id": 12885760668,
+          "duration_ms": 120000
+        },
+        {
+          "job_id": 12885760823,
+          "duration_ms": 180000
+        },
+        {
+          "job_id": 12885760963,
+          "duration_ms": 180000
+        },
+        {
+          "job_id": 12885761132,
+          "duration_ms": 2880000
+        },
+        {
+          "job_id": 12885761256,
+          "duration_ms": 180000
+        },
+        {
+          "job_id": 12885761453,
+          "duration_ms": 60000
+        },
+        {
+          "job_id": 12885761574,
+          "duration_ms": 60000
+        },
+        {
+          "job_id": 12885761671,
+          "duration_ms": 180000
+        },
+        {
+          "job_id": 12885761795,
+          "duration_ms": 60000
+        },
+        {
+          "job_id": 12885761892,
+          "duration_ms": 60000
+        }
+      ]
+    }
+  },
+  "run_duration_ms": 3728000
+}

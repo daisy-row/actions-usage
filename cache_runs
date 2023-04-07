@@ -1,0 +1,32 @@
+#!/bin/bash
+set -e
+f(){
+    mkdir -p cache
+
+    for ((i=1; ; i++)); do
+      FILE=$ORG-$REPO-$i.json
+      if [ ! -s cache/$FILE ]; then
+      contents=$( curl -s -S -L \
+         -H "Accept: application/vnd.github+json" \
+         -H "Authorization: Bearer $GITHUB_TOKEN"\
+         -H "X-GitHub-Api-Version: 2022-11-28" \
+         "https://api.github.com/repos/$ORG/$REPO/actions/runs?per_page=100&page=$i")
+      echo "$contents" > cache/$FILE 
+      if jq -e '.workflow_runs | length == 0' >/dev/null; then 
+         break
+      fi <<< "$contents"
+      echo -n .$i
+      sleep 1
+      fi
+      echo -n .
+    done
+}
+
+if (($# < 2)); then
+  echo usage: $0 ORG REPO
+else
+  export ORG=$1
+  export REPO=$2
+  mkdir -p cache
+  f $ORG $REPO 
+fi

@@ -1,0 +1,105 @@
+{
+  "billable": {
+    "WINDOWS_8_CORE": {
+      "total_ms": 1080000,
+      "jobs": 3,
+      "job_runs": [
+        {
+          "job_id": 13147299695,
+          "duration_ms": 600000
+        },
+        {
+          "job_id": 13147301416,
+          "duration_ms": 420000
+        },
+        {
+          "job_id": 13147658690,
+          "duration_ms": 60000
+        }
+      ]
+    },
+    "UBUNTU_4_CORE": {
+      "total_ms": 1680000,
+      "jobs": 9,
+      "job_runs": [
+        {
+          "job_id": 13147299820,
+          "duration_ms": 360000
+        },
+        {
+          "job_id": 13147300359,
+          "duration_ms": 120000
+        },
+        {
+          "job_id": 13147300502,
+          "duration_ms": 180000
+        },
+        {
+          "job_id": 13147300631,
+          "duration_ms": 180000
+        },
+        {
+          "job_id": 13147300743,
+          "duration_ms": 180000
+        },
+        {
+          "job_id": 13147300887,
+          "duration_ms": 180000
+        },
+        {
+          "job_id": 13147301008,
+          "duration_ms": 240000
+        },
+        {
+          "job_id": 13147658333,
+          "duration_ms": 180000
+        },
+        {
+          "job_id": 13147658545,
+          "duration_ms": 60000
+        }
+      ]
+    },
+    "MACOS": {
+      "total_ms": 0,
+      "jobs": 6,
+      "job_runs": [
+        {
+          "job_id": 13147299955,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 13147300103,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 13147300237,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 13147301163,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 13147301288,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 13147658849,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "UBUNTU": {
+      "total_ms": 0,
+      "jobs": 1,
+      "job_runs": [
+        {
+          "job_id": 13147301556,
+          "duration_ms": 0
+        }
+      ]
+    }
+  },
+  "run_duration_ms": 1031000
+}

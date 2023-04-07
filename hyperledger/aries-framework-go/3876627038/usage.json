@@ -1,0 +1,49 @@
+{
+  "billable": {
+    "UBUNTU": {
+      "total_ms": 0,
+      "jobs": 7,
+      "job_runs": [
+        {
+          "job_id": 10532781029,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10532781216,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10532781415,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10532781669,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10532782169,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10532782447,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 10532782676,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "MACOS": {
+      "total_ms": 0,
+      "jobs": 1,
+      "job_runs": [
+        {
+          "job_id": 10532781906,
+          "duration_ms": 0
+        }
+      ]
+    }
+  },
+  "run_duration_ms": 1461000
+}

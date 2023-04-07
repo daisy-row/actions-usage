@@ -1,0 +1,121 @@
+{
+  "billable": {
+    "UBUNTU": {
+      "total_ms": 0,
+      "jobs": 24,
+      "job_runs": [
+        {
+          "job_id": 9788278187,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788289814,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788290081,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788290297,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788290389,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788290468,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788290556,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788290653,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788290807,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788290965,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788291105,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788291210,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788291306,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788291389,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788291475,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788291563,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788291673,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788299894,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788426228,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788426323,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788426393,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788514894,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788543316,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788543395,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "MACOS": {
+      "total_ms": 0,
+      "jobs": 2,
+      "job_runs": [
+        {
+          "job_id": 9788289983,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 9788290171,
+          "duration_ms": 0
+        }
+      ]
+    }
+  },
+  "run_duration_ms": 3740000
+}

@@ -1,0 +1,51 @@
+{
+  "billable": {
+    "UBUNTU": {
+      "total_ms": 0,
+      "jobs": 10,
+      "job_runs": [
+        {
+          "job_id": 12966517943,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12966518164,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12966518381,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12966518627,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12966518837,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12966532205,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12966533593,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12966533835,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12966534860,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 12966535117,
+          "duration_ms": 0
+        }
+      ]
+    }
+  },
+  "run_duration_ms": 1333000
+}

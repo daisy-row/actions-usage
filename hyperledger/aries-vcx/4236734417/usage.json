@@ -1,0 +1,129 @@
+{
+  "billable": {
+    "UBUNTU": {
+      "total_ms": 0,
+      "jobs": 23,
+      "job_runs": [
+        {
+          "job_id": 11502312730,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502312865,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502313091,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502313275,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502404789,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502405236,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502405410,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502405646,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502405814,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502406089,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502406305,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502406533,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502406712,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502406894,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502407495,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502407933,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502408138,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502408312,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502577375,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502800699,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502800929,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502801179,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11503196126,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "MACOS": {
+      "total_ms": 0,
+      "jobs": 5,
+      "job_runs": [
+        {
+          "job_id": 11502407081,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502407300,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502407731,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502408478,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11502408653,
+          "duration_ms": 0
+        }
+      ]
+    }
+  },
+  "run_duration_ms": 4888000
+}

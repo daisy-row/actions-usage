@@ -1,0 +1,103 @@
+{
+  "billable": {
+    "UBUNTU": {
+      "total_ms": 0,
+      "jobs": 8,
+      "job_runs": [
+        {
+          "job_id": 11921688018,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11921736702,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11921737103,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11921737201,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11921861081,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11921861550,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11921861654,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11921861965,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "MACOS": {
+      "total_ms": 0,
+      "jobs": 6,
+      "job_runs": [
+        {
+          "job_id": 11921688200,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11921736858,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11921737318,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11921861193,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11921861750,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11921862053,
+          "duration_ms": 0
+        }
+      ]
+    },
+    "WINDOWS": {
+      "total_ms": 0,
+      "jobs": 6,
+      "job_runs": [
+        {
+          "job_id": 11921688341,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11921736990,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11921737464,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11921861336,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11921861880,
+          "duration_ms": 0
+        },
+        {
+          "job_id": 11921862162,
+          "duration_ms": 0
+        }
+      ]
+    }
+  },
+  "run_duration_ms": 1089000
+}
